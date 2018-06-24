@@ -3,7 +3,11 @@
 
 ```
 .
+├── conf
 ├── data
+├── notebooks
+├── spark
+├── tensorflow
 └── docker-compose.yml
 ```
 
