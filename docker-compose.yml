@@ -1,14 +1,14 @@
 version: "3"
 services:
 
-  jupyter:
+  tensorflow:
     build:
       context: ./tensorflow
     ports:
       - "8888:8888"
       - "6006:6006"
     links:
-      - postgres
+      - master
     volumes:
           - "./notebooks:/notebooks"
           - "./data:/data"
