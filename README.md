@@ -17,6 +17,10 @@
 $ docker-compose up
 ```
 
+#### Enjoy ;-)
+
+![nooteboks](./images/enjoy.png)
+
 ## Requirements:
 
 * Docker
