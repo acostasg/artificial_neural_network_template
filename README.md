@@ -43,3 +43,4 @@ $ docker-compose up
 # TODO
 
 * Implement ipyparallel https://github.com/ipython/ipyparallel with scale docker https://docs.docker.com/compose/reference/scale/
+* Sample nootebook with spark sample https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f
